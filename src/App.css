@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  box-sizing: border-box;
+  font-family: inter, sans-serif;
+}
+
+.delete-box {
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
+
+.delete-box .cancel {
+  margin-left: 10px;
+}
